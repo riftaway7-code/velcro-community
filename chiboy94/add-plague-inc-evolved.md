@@ -2,20 +2,19 @@
 
 **From:** chiboy94. (Discord)
 **Date:** 2026-08-30
-**Status:** proposed — needs a quick file check
+**Status:** ready to add — submitter says the file is standalone
 
 ## Ask
-Add Plague Inc: Evolved to the Velcro library. Submitted as a
-`Plague_Inc_Evolved.html` file.
+Add Plague Inc: Evolved to the Velcro library. Submitted as a single
+`Plague_Inc_Evolved.html`. Submitter confirms it runs on its own (no extra
+folder needed).
 
-## Practical notes for whoever picks this up
-- Confirm the HTML runs fully standalone (no external asset host, no backend).
-  If it's a Unity WebGL build it'll usually want a `Build/` folder alongside it,
-  so the single .html on its own may not work.
-- Check the total size before adding it to the repo/site bundle.
-- Test on a locked-down/school network profile since that's the target user.
-- If the single-file version doesn't run, ask chiboy94 for the full folder or
-  find a working copy of the same game.
+## For whoever picks this up
+- Drop the .html into the games section and wire up a library entry (title,
+  thumbnail, category).
+- Sanity-check the file size before committing it.
+- Load-test once on a locked-down/school network profile since that's the
+  target user.
 
 ## Status
-Wanted. Just needs someone to drop the file in and verify it loads.
+Wanted, file provided, reportedly standalone. Just needs adding + a load test.
