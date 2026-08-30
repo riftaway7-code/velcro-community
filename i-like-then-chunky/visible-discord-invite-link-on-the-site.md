@@ -8,14 +8,15 @@
 Make sure the Velcro Discord invite is on the site and easy to find. Two users
 weren't sure it was there.
 
+## Link to use
+`https://discord.gg/UWdeD4whhj` (permanent, provided by chiboy94.)
+
 ## Proposal
-- Discord icon in the header and/or footer, linking to the permanent invite.
-- Use a non-expiring invite (Server Settings > Invites > edit > never expire).
+- Discord icon in the header and/or footer linking to the invite above.
 - Optional: a small "Join our Discord" callout on the homepage / games page.
 
 ## Feasibility
 - One anchor tag + an icon. 5 minutes.
-- Only real note: use a permanent invite so it doesn't die.
 
 ## Status
 Confirm current state, add it where missing.
